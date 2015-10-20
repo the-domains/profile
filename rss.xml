@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Profile]]></title>
+        <description><![CDATA[Profile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 00:11:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nexus 6P review: Google gets better at big phones]]></title>
+            <description><![CDATA[<article><h1>Nexus 6P review: Google gets better at big phones</h1><p>Every year, like clockwork, Google and some popular phone maker cook up a handset to be a standard-bearer for the newest version of Android. Well, maybe not every year: This time around there are two of them. While the LG-made Nexus 5X is a direct successor to the beloved Nexus 5, things aren't quite as straightforward with Huawei's Nexus 6P.</p><img src="http://o.aolcdn.com/hss/storage/midas/f8c402cb43b00c0733b4e272bd40a6b3/202821391/6p-fb.jpg"></article>]]></description>
+            <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;cad=rja&amp;uact=8&amp;ved=0CCcQFjADahUKEwjgobS94c_IAhWSlogKHdndBnc&amp;url=http%3A%2F%2Fwww.engadget.com%2F2015%2F10%2F19%2Fnexus-6p-review%2F&amp;usg=AFQjCNEF-TCPFOlIjuFOgdtz1e1B5J12mA&amp;sig2=mThuEl8TiiP_ngz0DPVVRA</link>
+            <guid isPermaLink="false">45954d6a-e53c-4318-a196-a3d1b3e02c58</guid>
+            <pubDate>Tue, 20 Oct 2015 00:11:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
